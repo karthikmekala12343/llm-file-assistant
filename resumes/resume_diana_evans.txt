@@ -1,0 +1,22 @@
+RESUME
+
+Name: Diana Evans
+
+Contact: diana.evans@email.com | 555-0102
+
+Summary:
+Highly motivated professional with experience in Python, Django.
+
+Skills:
+- Python
+- Django
+- PostgreSQL
+- AWS
+
+Experience:
+Full Stack Developer at StartUp Inc (2021-Present)
+- Maintained Django backend.
+- Managed AWS infrastructure.
+
+Education:
+B.S. in Computer Science, University of Technology, 2018

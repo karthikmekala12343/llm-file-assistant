@@ -1,0 +1,22 @@
+RESUME
+
+Name: Charlie Davis
+
+Contact: charlie.davis@email.com | 555-0102
+
+Summary:
+Highly motivated professional with experience in JavaScript, React.
+
+Skills:
+- JavaScript
+- React
+- Node.js
+- CSS
+
+Experience:
+Frontend Engineer at Creative Design (2018-2022)
+- Created responsive web apps with React.
+- Collaborated with UX designers.
+
+Education:
+B.S. in Computer Science, University of Technology, 2018

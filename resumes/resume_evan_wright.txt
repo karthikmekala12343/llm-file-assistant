@@ -1,0 +1,22 @@
+RESUME
+
+Name: Evan Wright
+
+Contact: evan.wright@email.com | 555-0102
+
+Summary:
+Highly motivated professional with experience in C++, System Architecture.
+
+Skills:
+- C++
+- System Architecture
+- Linux
+- Performance Tuning
+
+Experience:
+Systems Engineer at Hardware Co (2015-Present)
+- Optimized low-level C++ code.
+- Designed scalable system architectures.
+
+Education:
+B.S. in Computer Science, University of Technology, 2018

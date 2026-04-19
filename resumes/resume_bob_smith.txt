@@ -1,0 +1,22 @@
+RESUME
+
+Name: Bob Smith
+
+Contact: bob.smith@email.com | 555-0102
+
+Summary:
+Highly motivated professional with experience in Java, Spring Boot.
+
+Skills:
+- Java
+- Spring Boot
+- Microservices
+- Docker
+
+Experience:
+Backend Developer at Web Solutions (2020-Present)
+- Developed RESTful APIs using Java.
+- Deployed microservices with Docker.
+
+Education:
+B.S. in Computer Science, University of Technology, 2018
