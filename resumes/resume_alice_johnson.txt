@@ -1,0 +1,22 @@
+RESUME
+
+Name: Alice Johnson
+
+Contact: alice.johnson@email.com | 555-0102
+
+Summary:
+Highly motivated professional with experience in Python, Machine Learning.
+
+Skills:
+- Python
+- Machine Learning
+- Data Analysis
+- SQL
+
+Experience:
+Data Scientist at Tech Corp (2019-Present)
+- Built predictive models using Python.
+- Improved data processing pipeline.
+
+Education:
+B.S. in Computer Science, University of Technology, 2018
